@@ -1,6 +1,6 @@
-# JSPM Playground
+# JSPM Playground for AngularJS
 
-This is a front-end playground based on the JSPM.
+This is a front-end playground based on the JSPM for the AngularJS framework.
 
 you can check out the app by installing all dependencies
 
